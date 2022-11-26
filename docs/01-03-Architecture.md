@@ -41,7 +41,7 @@ So why are single-page web application architectures so popular? I think it can 
 
 In the past, developers have commonly used technologies from Microsoft (Windows Forms, WPF, Silverlight), Oracle (Java Swing), Adobe (Flash, Flex ) and/or mobile solutions such as iOS or Android development to provide rich interactive user experiences. These technologies were never easy to deploy or update for a large number of users. Which is why the business applications are built as web applications today.
 
-These JavaScript libraries and frameworks allow developers to "have their cake and eat it to" by enabling an interactive user experience while remaining a web application.
+These JavaScript libraries and frameworks allow developers to "have their cake and eat it too" by enabling an interactive user experience while remaining a web application.
 
 ## React Architecture
 
